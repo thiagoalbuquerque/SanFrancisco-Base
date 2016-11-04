@@ -1,0 +1,174 @@
+intro-cena1.png
+@
+Este é o cruzeiro Knightsbridge, que está dando a volta ao mundo.
+Ele está abrigando uma exposição de objetos de arte famosos, 
+com a presença de algumas das pessoas mais importantes da atualidade.
+@
+intro-cena2.png
+@
+No salão principal, estão em exibição as obras mais preciosas - 
+as grandes estrelas do evento.
+A Noite Estrelada, de Van Gogh…
+A Persistência da Memória, de Salvador Dalí...
+Entre elas, posicionada bem no meio do salão, 
+está a atração principal:
+O Cetro Real.
+@
+intro-cena3.png
+@
+O Cetro Real também é chamado de "Sovereign's Sceptre with Cross", 
+ou, em português, "O Cetro com a Cruz do Soberano". 
+Em 1910, ele foi adaptado para segurar o diamante mais valioso da época,
+A Grande Estrela da África!
+@
+intro-cena4.png
+@
+Ei… o que está acontecendo?
+@
+intro-cena5.png
+@
+Falas:
+Oh, non! Você precisa nos ajudar! Meu nome é Maxime Richelieu.
+Sou o curador desta exposition. Meu trabalho é conceber, montar e supervisionar tudo isto.
+C'est une tragédie! É uma tragédia! 
+Estou desesperado! O Cetro Real foi roubado. Como eu vou explicar isso 
+para o pessoal de Londres? Só aquele diamante vale
+DOIS BILHÕES DE DÓLARES!!!
+@
+###
+@
+cena1.png
+@
+Pessoa: 
+Maxime Richelieu (francês)
+@
+Depoimento: 
+A Grande Estrela da África foi roubada junto com o Cetro Real! Por favor, interrogue os suspeitos e procure pistas para descobrir o culpado! Eu simplesmente não posso deixar uma tragédia dessas acontecer com a minha belle exposition!
+@
+FichaMaximeRichelieu.png
+@
+NOT_AVAILABLE
+@
+cena2.png
+@
+Pessoa:
+Ninguém em foco.
+@
+Investigando o cenário:
+Aqui era onde o cetro estava em exposição antes de ser roubado. Junto com ele havia um diamante enorme. Preciso encontrá-lo logo! Que mancha é aquela no chão? Não consigo alcançar por causa da multidão curiosa.
+@
+NOT_AVAILABLE
+@
+FichaCetroReal.png
+@
+cena3.png
+@
+Pessoa: 
+Liu Akame (chinesa)
+@
+Oh, olá. Meu nome é Liu Akame…
+Eu estava na sala de estátuas até agora, mas acabei saindo.
+Lá é tudo branco e eu não estava me sentindo bem… 
+Sabe, lá na China o branco é a cor que simboliza a morte. 
+Eu estava sozinha lá e senti um grande mau-agouro. Depois o cetro foi roubado…
+O quê? Não, ninguém me viu sozinha lá. Não tenho como comprovar nada.
+@
+FichaLiuAkame.png
+@
+NOT_AVAILABLE
+@
+cena4.png
+@
+Pessoa:
+Ninguém em foco
+@
+Investigando o cenário:
+Uma peruca egípcia com adorno de cobra, provavelmente pertenceu a alguém da nobreza.
+Muitos egípcios costumavam raspar a cabeça e usar perucas, para evitar os piolhos!
+Além disso, a cobra era um talismã de proteção, sabedoria e saúde.
+@
+NOT_AVAILABLE
+@
+FichaPeruca.png
+@
+cena5.png
+@
+Pessoa:
+Dalila Jali (africana)
+@
+Que cruzeiro horroroso! Nem nos lugares mais luxuosos consigo evitar confusões.
+Primeiro, a luz se apaga bem na hora que estou fazendo minha maquiagem.
+Depois, o lindo diamante africano que estava em exposição é roubado!
+Sabe, eu sou africana. Que falta de respeito!
+E ainda escorreguei em alguma coisa e quase quebrei o braço!
+Foi lá no salão principal. Tinha uma poça enorme no chão.
+Alguém deve ter derrubado a bebida no calor do momento,
+com todas essas pessoas alvoroçadas andando por aí.
+Pelo cheiro, provavelmente era alguma coisa alcoólica…
+@
+FichaDalilaJali.png
+@
+NOT_AVAILABLE
+@
+cena6.png
+@
+Pessoa:
+Ninguém em foco
+@
+Investigando o cenário:
+Ah… a galeria de arte. Alguns quadros bem famosos estão aqui.
+Hum…?
+Que estranho. Uma pena vermelha aqui no chão?
+@
+NOT_AVAILABLE
+@
+FichaPena.png
+@
+cena7.png
+@
+Pessoa:
+Ninguém em foco
+@
+A exposição brasileira não possui itens de enorme valor como o restante da exibição,
+mas foi montada para que a nossa cultura fosse mais conhecida no mundo todo.
+Temos aqui alguns elementos clássicos, como a Coroa Imperial de Dom Pedro II,
+mas também colocaram curiosidades sobre o carnaval e o futebol… é claro.
+Epa! Derrubei uma fantasia!
+@
+NOT_AVAILABLE
+@
+FichaFantasia.png
+@
+cena8.png
+@
+Pessoa: 
+Klaus Milch (alemão)
+@
+Hallo! Eu sou o Klaus, Klaus Milch.
+Sabia que, lá na Alemanha, meu sobrenome significa "leite"? Engraçado, né?
+Achei esse roubo muito curioso.
+Como conseguiram pegar um objeto tão grande com todo mundo olhando?
+Eu acho que foi a moça chinesa. Ela pode ser ninja!
+Espera, ninjas são chineses ou japoneses?
+@
+FichaKlausMilch.png
+@
+NOT_AVAILABLE
+@
+cena9.png
+@
+Pessoa:
+Ninguém na sala
+@
+Aqui tem um monte de estátuas de mármore, cada uma mais famosa que a outra.
+Com certeza, a mais bela de todas é a Vênus de Milo.
+Há um mito que diz que os escultores não colocavam os braços
+de propósito, para deixar a figura mais equilibrada.
+Puro mito… na verdade, os braços se quebraram com o tempo.
+Eu me pergunto em qual posição estavam os braços da Vênus de Milo…
+Talvez fazendo joinha?
+Ei, o que é isso grudado no meu sapato?
+@
+NOT_AVAILABLE
+@
+FichaBilhete.png
